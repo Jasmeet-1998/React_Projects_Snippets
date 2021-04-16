@@ -1,0 +1,56 @@
+{
+<<<<<<< HEAD
+=======
+  "homepage":"http://Jasmeet-1998.github.io/react-gh-pages",
+>>>>>>> 121b9c4 (Completed)
+  "name": "booksbay",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+=======
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-toastify": "^7.0.3",
+>>>>>>> 121b9c4 (Completed)
+    "reactstrap": "^8.9.0",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+<<<<<<< HEAD
+=======
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+>>>>>>> 121b9c4 (Completed)
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
